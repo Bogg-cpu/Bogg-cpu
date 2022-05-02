@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zpridham
-- 👀 I’m interested in doing stuff on godot
-- 🌱 I’m currently learning how to use godot
+- 👀 I’m interested in doing stuff on godot and C
+- 🌱 I’m currently learning how to use godot and C
 - 💞️ I’m looking to collaborate on stuff maybe
 - 📫 How to reach me ... just email me heh
